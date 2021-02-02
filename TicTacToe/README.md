@@ -9,4 +9,7 @@ so you can not win Computer.
 <code>python -m lib</code>
 
 ## Examples
-![sample](sample.gif)
+<div style="max-width: 400px">
+
+![sample](sample.gif) 
+</div>
