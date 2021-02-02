@@ -11,5 +11,5 @@ so you can not win Computer.
 ## Examples
 <div style="max-width: 400px">
 
-![sample](sample.gif) 
+![sample](sample.gif)
 </div>
