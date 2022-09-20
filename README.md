@@ -1,8 +1,8 @@
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](LICENSE)
 
-# Microprocessor Laboratory
+# AI
 
-Exercises for the Irtificial Intelligence course
+Exercises for the Artificial Intelligence course
 
 ## **Projects**
 
